@@ -1,0 +1,184 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "titulo": "Reclutamiento de nuevos empleados",
+      "descripcion": "Buscar, evaluar y seleccionar candidatos para cubrir vacantes en la empresa.",
+      "tiempo": 20,
+      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
+      "responsable": "John Doe",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 2,
+      "titulo": "Capacitación en políticas de la empresa",
+      "descripcion": "Realizar sesiones de capacitación para informar a los empleados sobre las políticas y procedimientos de la empresa.",
+      "tiempo": 20,
+      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
+      "responsable": "Jane Doe",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 3,
+      "titulo": "Implementación de programa de bienestar",
+      "descripcion": "Desarrollar un programa de bienestar para mejorar la calidad de vida de los empleados.",
+      "tiempo": 20,
+      "imagen": "https://img.freepik.com/psd-premium/maqueta-logotipo-cafeteria-cafeteria-interior-diseno-moderno_9790-2779.jpg",
+      "responsable": "Alex Smith",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 4,
+      "titulo": "Diseño y ejecución de eventos corporativos",
+      "descripcion": "Planificar y organizar eventos corporativos para fortalecer la cultura organizacional.",
+      "tiempo": 20,
+      "imagen": "https://img.freepik.com/psd-premium/maqueta-logotipo-cafeteria-cafeteria-interior-diseno-moderno_9790-2779.jpg",
+      "responsable": "James Brown",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 5,
+      "titulo": "Desarrollo de políticas de diversidad e inclusión",
+      "descripcion": "Crear políticas que fomenten la diversidad y la inclusión en el lugar de trabajo.",
+      "tiempo": 10,
+      "imagen": "https://img.freepik.com/psd-premium/maqueta-logotipo-cafeteria-cafeteria-interior-diseno-moderno_9790-2779.jpg",
+      "responsable": "Mary Johnson",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 6,
+      "titulo": "Implementación de programa de evaluación del desempeño",
+      "descripcion": "Establecer un sistema para evaluar y reconocer el desempeño de los empleados.",
+      "tiempo": 10,
+      "imagen": "https://img.freepik.com/psd-premium/maqueta-logotipo-cafeteria-cafeteria-interior-diseno-moderno_9790-2779.jpg",
+      "responsable": "Robert Smith",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 7,
+      "titulo": "Desarrollo del sistema de reconocimientos",
+      "descripcion": "Implementar un sistema de reconocimientos para destacar logros y contribuciones excepcionales.",
+      "tiempo": 10,
+      "imagen": "https://img.freepik.com/psd-premium/maqueta-logotipo-cafeteria-cafeteria-interior-diseno-moderno_9790-2779.jpg",
+      "responsable": "Elizabeth Taylor",
+      "estado": "PORTESTEAR"
+    },
+    {
+      "id": 8,
+      "titulo": "Creación de la interfaz de usuario de la plataforma de recursos humanos",
+      "descripcion": "Diseñar una interfaz de usuario intuitiva y eficiente para la plataforma de recursos humanos de la empresa.",
+      "tiempo": 10,
+      "imagen": "https://img.freepik.com/psd-premium/maqueta-logotipo-cafeteria-cafeteria-interior-diseno-moderno_9790-2779.jpg",
+      "responsable": "William Johnson",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 9,
+      "titulo": "Planificación de actividades de team building",
+      "descripcion": "Organizar actividades para fortalecer el trabajo en equipo y las relaciones entre los empleados.",
+      "tiempo": 15,
+      "imagen": "https://img.freepik.com/foto-gratis/trabajando-codigo_1098-19858.jpg?w=1060&t=st=1701312241~exp=1701312841~hmac=4e067cc602c70e7cdf5aa5436a165bc0408b4fbbd3ce937f0c39c0d27233cc09",
+      "responsable": "Sophia Miller",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 10,
+      "titulo": "Análisis de satisfacción laboral",
+      "descripcion": "Realizar encuestas y análisis para evaluar la satisfacción laboral de los empleados.",
+      "tiempo": 15,
+      "imagen": "https://img.freepik.com/foto-gratis/trabajando-codigo_1098-19858.jpg?w=1060&t=st=1701312241~exp=1701312841~hmac=4e067cc602c70e7cdf5aa5436a165bc0408b4fbbd3ce937f0c39c0d27233cc09",
+      "responsable": "Michael Davis",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 11,
+      "titulo": "Actualización de manuales de recursos humanos",
+      "descripcion": "Revisar y actualizar manuales y documentos relacionados con recursos humanos.",
+      "tiempo": 10,
+      "imagen": "https://img.freepik.com/foto-gratis/comprobacion-datos-computadora-portatil_1098-17026.jpg?w=1060&t=st=1701312146~exp=1701312746~hmac=122be26188a2005c5fd183ea038a0c8cf0096de4f3e5409b233fbf3a638ffaa8",
+      "responsable": "Emma Wilson",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 12,
+      "titulo": "Implementación de programa de mentoría",
+      "descripcion": "Establecer un programa de mentoría para el desarrollo profesional de los empleados.",
+      "tiempo": 15,
+      "imagen": "https://img.freepik.com/foto-gratis/espacio-oficina-moderno-escritorios-computadoras-modernas-creadas-tecnologia-ia-generativa_185193-110089.jpg?w=1060&t=st=1701312111~exp=1701312711~hmac=c63db3c1c777ce65e5ac81103a02e08d14e30ef0f07a3e974c211a1c5dd25e94",
+      "responsable": "David Brown",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 13,
+      "titulo": "Campaña de comunicación interna",
+      "descripcion": "Desarrollar una campaña para mejorar la comunicación interna y la transparencia.",
+      "tiempo": 10,
+      "imagen": "https://img.freepik.com/foto-gratis/espacio-oficina-moderno-escritorios-computadoras-modernas-creadas-tecnologia-ia-generativa_185193-110089.jpg?w=1060&t=st=1701312111~exp=1701312711~hmac=c63db3c1c777ce65e5ac81103a02e08d14e30ef0f07a3e974c211a1c5dd25e94",
+      "responsable": "Olivia White",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 14,
+      "titulo": "Implementación de políticas de teletrabajo",
+      "descripcion": "Establecer políticas y procedimientos para el trabajo remoto.",
+      "tiempo": 15,
+      "imagen": "https://img.freepik.com/foto-gratis/espacio-oficina-moderno-escritorios-computadoras-modernas-creadas-tecnologia-ia-generativa_185193-110089.jpg?w=1060&t=st=1701312111~exp=1701312711~hmac=c63db3c1c777ce65e5ac81103a02e08d14e30ef0f07a3e974c211a1c5dd25e94",
+      "responsable": "Daniel Taylor",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 15,
+      "titulo": "Desarrollo de programa de reconocimiento de logros",
+      "descripcion": "Crear un programa para reconocer y recompensar los logros excepcionales de los empleados.",
+      "tiempo": 15,
+      "imagen": "https://img.freepik.com/foto-gratis/espacio-oficina-moderno-escritorios-computadoras-modernas-creadas-tecnologia-ia-generativa_185193-110089.jpg?w=1060&t=st=1701312111~exp=1701312711~hmac=c63db3c1c777ce65e5ac81103a02e08d14e30ef0f07a3e974c211a1c5dd25e94",
+      "responsable": "Sophia Davis",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 16,
+      "titulo": "Actualización de políticas de recursos humanos",
+      "descripcion": "Revisar y actualizar las políticas de recursos humanos de acuerdo con las leyes y regulaciones actuales.",
+      "tiempo": 10,
+      "imagen": "https://img.freepik.com/foto-gratis/comprobacion-datos-computadora-portatil_1098-17026.jpg?w=1060&t=st=1701312146~exp=1701312746~hmac=122be26188a2005c5fd183ea038a0c8cf0096de4f3e5409b233fbf3a638ffaa8",
+      "responsable": "Liam Johnson",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 17,
+      "titulo": "Desarrollo de programas de formación continua",
+      "descripcion": "Diseñar programas de formación para el desarrollo continuo de habilidades y conocimientos de los empleados.",
+      "tiempo": 15,
+      "imagen": "https://img.freepik.com/foto-gratis/comprobacion-datos-computadora-portatil_1098-17026.jpg?w=1060&t=st=1701312146~exp=1701312746~hmac=122be26188a2005c5fd183ea038a0c8cf0096de4f3e5409b233fbf3a638ffaa8",
+      "responsable": "Emma Davis",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 18,
+      "titulo": "Planificación de eventos de integración",
+      "descripcion": "Organizar eventos para integrar a nuevos empleados en la cultura de la empresa.",
+      "tiempo": 15,
+      "imagen": "https://img.freepik.com/foto-gratis/comprobacion-datos-computadora-portatil_1098-17026.jpg?w=1060&t=st=1701312146~exp=1701312746~hmac=122be26188a2005c5fd183ea038a0c8cf0096de4f3e5409b233fbf3a638ffaa8",
+      "responsable": "Mia Smith",
+      "estado": "PORTESTEAR"
+    },
+    {
+      "id": 19,
+      "titulo": "Implementación de sistema de gestión de desempeño",
+      "descripcion": "Desarrollar e implementar un sistema para gestionar y mejorar el desempeño de los empleados.",
+      "tiempo": 10,
+      "imagen": "https://img.freepik.com/foto-gratis/comprobacion-datos-computadora-portatil_1098-17026.jpg?w=1060&t=st=1701312146~exp=1701312746~hmac=122be26188a2005c5fd183ea038a0c8cf0096de4f3e5409b233fbf3a638ffaa8",
+      "responsable": "William Johnson",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 20,
+      "titulo": "Desarrollo de políticas de equidad salarial",
+      "descripcion": "Establecer políticas que garanticen la equidad salarial dentro de la empresa.",
+      "tiempo": 10,
+      "imagen": "https://img.freepik.com/foto-gratis/comprobacion-datos-computadora-portatil_1098-17026.jpg?w=1060&t=st=1701312146~exp=1701312746~hmac=122be26188a2005c5fd183ea038a0c8cf0096de4f3e5409b233fbf3a638ffaa8",
+      "responsable": "Elizabeth Taylor",
+      "estado": "ENPRODUCCION"
+    }
+  ]
+}
